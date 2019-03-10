@@ -1,0 +1,22 @@
+.list-posts {
+    display: grid;
+    grid-gap: 10px;
+    font-size: 12px;
+}
+
+.post-item {
+    border: 1.5px solid grey;
+    padding: 5px;
+}
+
+.post-title{
+    color: lightskyblue;
+}
+
+.post-body{
+    color:lightseagreen
+}
+
+.user {
+    color: deeppink;
+}
